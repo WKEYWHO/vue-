@@ -4,6 +4,6 @@ module.exports = {
         user: 'sa',
         password: '123123',
         port: '8080',
-        database: 'login'
+        database: 'Hiserver'
     }
 }
